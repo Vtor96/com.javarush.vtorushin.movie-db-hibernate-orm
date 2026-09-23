@@ -1,4 +1,4 @@
-# Movie Database — Hibernate Mapping (Module 4, Project 2)
+# Movie Database - Hibernate Mapping (Module 4, Project 2)
 
 Учебный проект для 4-го модуля курса JavaRush («Работа с БД»). 
 Маппинг JPA-сущностей на существующую схему `movie` из тестовой БД MySQL Sakila, плюс транзакционные операции: создание покупателя, возврат аренды, новая аренда с оплатой, добавление нового фильма.
